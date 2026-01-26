@@ -2,9 +2,6 @@
 <img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/9d5f8d9c-6ef0-4088-acd3-7d76f8ba615e" />
 
 
-Absolutely! I can create a **professional, well-structured `README.md`** for your Airbnb project that’s ready for GitHub. This will include **project overview, objectives, methodology, insights, business suggestions, and how to use the repo**.
-
-Here’s a complete draft:
 
 ```markdown
 # Airbnb Data Analysis & Insights
